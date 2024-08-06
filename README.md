@@ -1,15 +1,12 @@
 ## Hi there 👋 I'm Kadir Berke KÖKSAL
 
+- 🔭 I’m currently learning on engineer. 
+- 🌱 I’m currently studying HTML5 , CSS3 , Java and Javascript.
+- 💬 Ask me about HTML5 , CSS3 , Java and Javascript.
+- 🔮 I want to improve myself in the field of engineering and software.
+- 📫 How to reach me: berkekoksal02@gmail.com
 
-**Berkekoksal/Berkekoksal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with my Social Media
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HTML5 , CSS3 and Javascript.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about HTML5 , CSS3 and Javascript.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
