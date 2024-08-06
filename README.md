@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Berke KÖKSAL</h1>
-- 🔭 I’m currently learning on Engineer.
+ - 🔭 I’m currently learning on Engineer.
 
 - 🌱 I’m currently stduying **HTML5 , CSS3 , Java and Javascript.**
 
