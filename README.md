@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning on Engineer.
 
-- 🌱 I’m currently stduying **HTML5 , CSS3 , Java and Javascript.**
+- 🌱 I’m currently stduying **React , Typescript and Redux.**
 
 - 🔮 I want to improve myself in the field of **engineering and software.**
 
