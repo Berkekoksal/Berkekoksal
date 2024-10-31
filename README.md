@@ -6,7 +6,7 @@
 
 - 🔮 I want to improve myself in the field of **engineering and software.**
 
-- 💬 Ask me about **HTML5 , CSS3 , Java and Javascript.**
+- 💬 Ask me about **Java , Javascript and React.**
 
 - 📫 How to reach me **berkekoksal02@gmail.com**
 
