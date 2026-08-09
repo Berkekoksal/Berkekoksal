@@ -1,8 +1,8 @@
 <h1 align="center">Merhaba, ben Kadir Berke Köksal 👋</h1>
-<h3 align="center">Computer Engineering Student · Full-Stack Developer · Building for the Dutch & EU Market 🇳🇱</h3>
+<h3 align="center">Computer Engineering Student · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+Kuyaris+%E2%80%94+Dutch+Staffing+SaaS;NestJS+%2B+Modular+Monolith+Architecture;Automating+visa+appointments+with+VFSBot;Turning+ideas+into+scalable+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+TypeScript+Enthusiast;NestJS+%2B+Node.js+Backend;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,48 +13,11 @@
 
 ---
 
-### 🧭 Şu An Üzerinde Çalıştıklarım
-
-```text
-🏢 Kuyaris        → Hollanda pazarına yönelik uitzendbureau (staffing agency) SaaS platformu
-                     NestJS · Modular Monolith · Nmbrs payroll · SUGB/SETU ücret eşitliği entegrasyonu
-                     CAO voor Uitzendkrachten 2026-2028 uyumluluğu üzerine derin araştırma
-
-🛂 VFSBot / VBot2 → Vize randevusu otomasyon sistemi (Super Admin panel, multi-client)
-                     Next.js · FastAPI/NestJS · PostgreSQL + Prisma · Redis/BullMQ · Playwright workers
-                     Cloudflare/Turnstile handling, Telegram OTP tabanlı otomatik randevu alma
-
-🚴 Ata Technology → Next.js + NestJS tabanlı bisiklet e-ticaret platformu
-                     Mollie ödeme entegrasyonu · Hellorider lease API
-```
-
----
-
-### 🎓 Akademik Arka Plan
-
-**Fırat Üniversitesi** — Bilgisayar Mühendisliği
-Bitirme Projesi: **LoRa tabanlı kablosuz veri iletişimi & enerji izleme sistemi**
-`ESP32` `EBYTE E32` — çok katlı bina içi menzil testleri ile
-
----
-
-### 💡 Diğer Ürün Fikirlerim
-
-| Proje | Açıklama |
-|---|---|
-| **NOIR** | İstanbul için gamified urban experience mobil uygulaması |
-| **Whisper** | Anonim soru-cevap platformu, AI kişilik profilleriyle |
-| **Bölüş** | AI destekli grup harcama paylaşım uygulaması |
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,redis,docker,figma,git,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,redis,docker,figma,git,py,cpp,cs&theme=dark" />
 </p>
-
-**Şu an derinleştiriyorum:** Modular Monolith & Multi-Tenant SaaS mimarisi, Event-Driven Architecture, Azure/AWS, RBAC & Audit Logging
 
 ---
 
@@ -77,12 +40,10 @@ Bitirme Projesi: **LoRa tabanlı kablosuz veri iletişimi & enerji izleme sistem
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
 ---
-
-### 🏗️ Mühendislik Felsefem
-
-> "Sistem binlerce kullanıcıyla nasıl davranır? Bir servis çökerse ne olur? Veriyi nasıl kaybetmeyiz? Mimariyi yeniden yazmadan nasıl ölçekleriz?"
-
-Bu sorular yüzünden çoğu şeyi **çalışsın diye değil, doğru büyüsün diye** tasarlamaya çalışıyorum.
 
 <p align="center">⭐ Learning · Building · Shipping — sürekli</p>
