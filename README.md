@@ -1,164 +1,260 @@
-<h1 align="center">Hi 👋, I'm Kadir Berke Köksal</h1>
+<!-- ========================= HERO ========================= -->
 
-<h3 align="center">Computer Engineer • Full Stack Developer • Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+React+Native;Node.js+%7C+NestJS;PostgreSQL+%7C+Azure;Building+Scalable+Software+Systems" alt="Typing SVG" />
-</p>
+👋 Hi, I'm Kadir Berke Köksal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Berkekoksal&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
+Computer Engineer · Full Stack Developer · Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Software+Systems;Full+Stack+%26+Backend+Development;React+%7C+React+Native+%7C+NestJS;Cloud+%26+IoT+Focused+Development" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Berkekoksal">
+  <img src="https://komarev.com/ghpvc/?username=Berkekoksal&label=Profile+Views&style=for-the-badge" alt="Profile views"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================= ABOUT ========================= -->
 
 👨‍💻 About Me
 
-🎓 Computer Engineering
+<table>
+<tr>
+<td width="50%">
 
-💻 Interested in Full Stack Development, Backend Architecture and Mobile Development
+💻 Development
 
-🧩 Building scalable and maintainable software systems
+Full Stack Development
 
-📱 Developing modern web and mobile applications
+Backend Architecture
 
-☁️ Interested in cloud-based architectures and deployment
+Mobile Application Development
 
-🌱 Currently improving my skills in NestJS, PostgreSQL, Azure and system architecture
+REST API Design
 
-🚀 Interested in CRM, IoT, SaaS and enterprise software projects
+Database Design
 
-🛠 Tech Stack
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,postgres,firebase,azure,docker,git,github,html,css,bootstrap,tailwind,java,cs,python" />
-</p>
+🚀 Current Focus
+
+Scalable backend systems
+
+Multi-tenant architectures
+
+Cloud infrastructure
+
+IoT backend platforms
+
+Enterprise & SaaS applications
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= STACK ========================= -->
+
+<div align="center">
+
+🛠️ Tech Stack
 
 Frontend
 
-React React Native TypeScript JavaScript HTML CSS Tailwind CSS Bootstrap
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&perline=7" />
 
-Backend
+<br/><br/>
 
-Node.js NestJS REST API Firebase
+Backend & Database
 
-Database & Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase,mysql&perline=5" />
 
-PostgreSQL MSSQL SQLite Firebase Azure
+<br/><br/>
 
-Tools
+Cloud & Tools
 
-Git GitHub Docker Jira Postman
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman&perline=5" />
 
-🧠 What I Focus On
+<br/><br/>
 
-Scalable Backend Architecture
-Multi-Tenant Applications
-REST API Design
-Authentication & Authorization
-Role-Based Access Control
-Audit Logging
-Database Design
-Cloud Deployment
-Mobile Application Development
-IoT Backend Systems
+Other Technologies
+
+<img src="https://skillicons.dev/icons?i=java,cs,python,c,cpp&perline=5" />
+
+</div>
+
+<br/>
+
+<!-- ========================= SPECIALTIES ========================= -->
+
+<div align="center">
+
+🧠 Areas I Work On
+
+<img src="https://img.shields.io/badge/Backend_Architecture-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Tenant_Systems-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RBAC-181717?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Audit_Logging-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_Deployment-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT_Systems-181717?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<!-- ========================= PROJECTS ========================= -->
+
+<div align="center">
 
 🚀 Featured Projects
 
+<p>
+  Selected projects focused on backend systems, CRM platforms and IoT infrastructure.
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
 🏢 CRM Backend
 
-A backend project focused on CRM operations and business management systems.
+Business-oriented CRM backend architecture.
 
-Repository:
-https://github.com/Berkekoksal/demoCRMBackend
+<br/>
 
-📡 LoRa / IoT Backend
+<a href="https://github.com/Berkekoksal/demoCRMBackend">
+<img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Backend infrastructure designed for IoT and LoRa-based communication systems.
+</td>
 
-Repository:
-https://github.com/Berkekoksal/LoRaBackend
+<td width="33%" align="center">
 
-🧑‍💼 Uitzend CRM V2
+📡 LoRa Backend
 
-A CRM project designed around modern workforce and business management requirements.
+Backend infrastructure for LoRa & IoT communication.
 
-Repository:
-https://github.com/Berkekoksal/uitzendCRMv2
+<br/>
 
-📌 Featured Repositories
+<a href="https://github.com/Berkekoksal/LoRaBackend">
+<img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Berkekoksal/demoCRMBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=demoCRMBackend&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Berkekoksal/uitzendCRMv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=uitzendCRMv2&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+</td>
 
-<p align="center">
-  <a href="https://github.com/Berkekoksal/LoRaBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=LoRaBackend&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+<td width="33%" align="center">
 
-📊 GitHub Statistics
+👥 Uitzend CRM V2
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Berkekoksal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekoksal&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Modern workforce and business CRM platform.
 
-🔥 Contribution Streak
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Berkekoksal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/Berkekoksal/uitzendCRMv2">
+<img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= REPO CARDS ========================= -->
+
+<div align="center">
+
+📌 Repository Highlights
+
+<a href="https://github.com/Berkekoksal/demoCRMBackend">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=demoCRMBackend&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Berkekoksal/uitzendCRMv2">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=uitzendCRMv2&theme=github_dark&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Berkekoksal/LoRaBackend">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=LoRaBackend&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================= STATS ========================= -->
+
+<div align="center">
+
+📊 GitHub Overview
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Berkekoksal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekoksal&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Berkekoksal&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- ========================= ACTIVITY ========================= -->
+
+<div align="center">
 
 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkekoksal&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkekoksal&theme=github-compact&hide_border=true&area=true" />
 
-🏆 GitHub Trophies
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Berkekoksal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
+<br/>
 
-🐍 Contribution Snake
+<!-- ========================= SNAKE ========================= -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
 
-The snake animation will appear after the GitHub Actions workflow is added and run successfully.
+🐍 Contributions
 
-🤝 Connect With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+</div>
 
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <b>Building modern, scalable and reliable software systems.</b>
-</p>
+<!-- ========================= CONTACT ========================= -->
+
+<div align="center">
+
+🤝 Let's Connect
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+Building modern, scalable and reliable software systems.
+
+</div>
