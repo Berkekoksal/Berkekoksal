@@ -95,42 +95,6 @@ Other Technologies
 
 <!-- ========================= PROJECTS ========================= -->
 
-<div align="center">
-
-🚀 Featured Projects
-
-🏢 CRM Backend
-
-Business-focused CRM backend architecture and API development.
-
-<a href="https://github.com/Berkekoksal/demoCRMBackend">
-  <img src="https://img.shields.io/badge/Open%20Repository-demoCRMBackend-238636?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-📡 LoRa / IoT Backend
-
-Backend infrastructure designed for LoRa and IoT communication systems.
-
-<a href="https://github.com/Berkekoksal/LoRaBackend">
-  <img src="https://img.shields.io/badge/Open%20Repository-LoRaBackend-238636?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-👥 Uitzend CRM V2
-
-Modern CRM platform focused on workforce and business management.
-
-<a href="https://github.com/Berkekoksal/uitzendCRMv2">
-  <img src="https://img.shields.io/badge/Open%20Repository-uitzendCRMv2-238636?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ========================= REPOSITORY HIGHLIGHTS ========================= -->
 
 <div align="center">
