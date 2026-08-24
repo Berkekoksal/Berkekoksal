@@ -173,11 +173,11 @@ Other Technologies
 
 🤝 Let's Connect
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/kadirberke02">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:berkekoksal02@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
