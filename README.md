@@ -1,178 +1,164 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kadir Berke Köksal</h1>
 
-👋 Hi, I'm Kadir Berke Köksal
+<h3 align="center">Computer Engineer • Full Stack Developer • Software Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Full-Stack+Developer;React+%7C+React+Native+Developer;NestJS+%7C+Node.js+Backend+Developer;Building+Scalable+Systems;Cloud+%26+IoT+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+React+Native;Node.js+%7C+NestJS;PostgreSQL+%7C+Azure;Building+Scalable+Software+Systems" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<a href="https://github.com/Berkekoksal">
-  <img src="https://img.shields.io/github/followers/Berkekoksal?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Berkekoksal&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Berkekoksal&label=Profile%20Views&style=flat" alt="Profile Views" />
+</p>
 
 👨‍💻 About Me
 
-I am a software developer focused on building modern, scalable and maintainable web, mobile and backend systems.
+🎓 Computer Engineering
 
-🔭 Working on full-stack, mobile, cloud and IoT-oriented projects
+💻 Interested in Full Stack Development, Backend Architecture and Mobile Development
 
-🌱 Improving my skills in scalable backend architecture, cloud systems and distributed applications
+🧩 Building scalable and maintainable software systems
 
-📱 Building cross-platform applications with React Native
+📱 Developing modern web and mobile applications
 
-⚙️ Designing backend systems with NestJS / Node.js
+☁️ Interested in cloud-based architectures and deployment
 
-🗄️ Working with relational and cloud databases such as PostgreSQL, MSSQL and Firebase
+🌱 Currently improving my skills in NestJS, PostgreSQL, Azure and system architecture
 
-☁️ Interested in Azure, Docker, CI/CD and production architecture
+🚀 Interested in CRM, IoT, SaaS and enterprise software projects
 
-💡 I enjoy turning real-world problems into practical software products
+🛠 Tech Stack
 
-🛠️ Tech Stack
-
-Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,postgres,firebase,azure,docker,git,github,html,css,bootstrap,tailwind,java,cs,python" />
 </p>
 
-Frontend & Mobile
+Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass" />
-</p>
+React React Native TypeScript JavaScript HTML CSS Tailwind CSS Bootstrap
 
 Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
+Node.js NestJS REST API Firebase
 
-Databases & Cloud
+Database & Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,azure" />
-</p>
+PostgreSQL MSSQL SQLite Firebase Azure
 
 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" />
-</p>
+Git GitHub Docker Jira Postman
 
 🧠 What I Focus On
 
-Frontend        → React / TypeScript / Modern UI
-Mobile          → React Native / Cross-platform apps
-Backend         → NestJS / Node.js / REST APIs
-Database        → PostgreSQL / MSSQL / Firebase
-Architecture    → Modular Monolith / Scalable Systems / Multi-Tenant Apps
-Cloud & DevOps  → Azure / Docker / CI-CD
-IoT             → ESP32 / Sensor Networks / Gateway Architecture
+Scalable Backend Architecture
+Multi-Tenant Applications
+REST API Design
+Authentication & Authorization
+Role-Based Access Control
+Audit Logging
+Database Design
+Cloud Deployment
+Mobile Application Development
+IoT Backend Systems
 
 🚀 Featured Projects
 
-Replace the repository links below with your real public repositories.
+🏢 CRM Backend
 
-🌱 Smart Agriculture & IoT Platform
+A backend project focused on CRM operations and business management systems.
 
-An IoT-oriented agriculture platform designed for collecting field data, transmitting sensor information through gateways and presenting it through backend and mobile systems.
+Repository:
+https://github.com/Berkekoksal/demoCRMBackend
 
-Focus: IoT • ESP32 • Connectivity • NestJS • PostgreSQL • Mobile • Cloud
+📡 LoRa / IoT Backend
 
+Backend infrastructure designed for IoT and LoRa-based communication systems.
 
+Repository:
+https://github.com/Berkekoksal/LoRaBackend
 
-🏢 Multi-Tenant CRM / Management Platform
+🧑‍💼 Uitzend CRM V2
 
-A scalable management platform architecture focused on multi-tenant data separation, role-based access control, audit logging, document management and future microservice migration.
+A CRM project designed around modern workforce and business management requirements.
 
-Focus: NestJS • PostgreSQL • RBAC • Audit Logs • Multi-Tenancy • Azure
+Repository:
+https://github.com/Berkekoksal/uitzendCRMv2
 
-
-
-📱 Cross-Platform Mobile Applications
-
-Modern mobile applications built with reusable architecture, API integration, authentication and scalable state management.
-
-Focus: React Native • TypeScript • REST API • Authentication • State Management
-
-
-
-📌 Featured Repository Cards
+📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Berkekoksal/YOUR_REPOSITORY_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=YOUR_REPOSITORY_1&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Berkekoksal/demoCRMBackend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=demoCRMBackend&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Berkekoksal/YOUR_REPOSITORY_2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Berkekoksal/uitzendCRMv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=uitzendCRMv2&theme=github_dark&hide_border=true" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Berkekoksal/LoRaBackend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Berkekoksal&repo=LoRaBackend&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Berkekoksal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekoksal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Berkekoksal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkekoksal&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Berkekoksal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1" alt="GitHub trophies" />
-
-</div>
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Berkekoksal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkekoksal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-Note: “Top Languages” reflects the languages present in your public GitHub repositories; it is not a direct measurement of skill level.
-
-🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Berkekoksal&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berkekoksal&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Berkekoksal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
 
 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Berkekoksal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+The snake animation will appear after the GitHub Actions workflow is added and run successfully.
 
 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
-<div align="center">
-
-“Build systems that are useful, scalable and maintainable.”
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">
+  <b>Building modern, scalable and reliable software systems.</b>
+</p>
